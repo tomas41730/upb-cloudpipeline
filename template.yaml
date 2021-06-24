@@ -7,7 +7,7 @@ Resources:
   LambdaRole:
     Type: AWS::IAM::Role
     Properties:
-      RoleName: lambda-role-3213
+      RoleName: lambda-role-upb
       AssumeRolePolicyDocument:
         Statement:
           - Action:
